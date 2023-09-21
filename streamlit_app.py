@@ -40,7 +40,7 @@ if uploaded_file is not None:
 
         # Define font and max width for text
         font_size = int(img_height / 15)  # Base font size on image height
-        font = ImageFont.truetype("impact.ttf", font_size)
+        font = ImageFont.truetype("./impact.ttf", font_size)
         max_width = img_width - 40  # Leave 20 pixels padding on each side
 
         # Draw top text
