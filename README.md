@@ -1,1 +1,1 @@
-# memegenerator
+# Simple streamlit app: memegenerator
